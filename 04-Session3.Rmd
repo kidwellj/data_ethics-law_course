@@ -1,1 +1,30 @@
 # Confidentiality, anonymity, consent, and privacy
+
+iframe / video here
+
+# Transcript of the video:
+
+Data is used in a huge variety of ways, in fact, with the rise of digital platforms, social media, and big data, few few aspects of our lives are "off limits". To be fair, it's not as if platforms like Google and Facebook have invented the idea of "data," for decades scholarly researchers have been collecting and analysing data in ways that they hope will improve the quality of life for countless individual people. 
+
+Let me give you one example of what I see as a benevolent kind of data collection. In recent years, DNA sequencing has become incredibly fast, efficient, and also inexpensive. Many issues with human health and disease have genetic components, and access to information about a range of human genomes can really help researchers to accelerate the pace of research and look for new areas of impact. 
+
+Though there are some movements to share personal genetic data openly, there are expectedly rare, and generally many people who contribute their personal data to research do so on the expectation that their contributions will be made confidential or anonymous.
+
+This is a crucial point, so I'd like to pause and highlight three fundamental aspects of empirical research:
+
+* Informed consent: Regardless of privacy concerns, it is a fundamental right of any person participating in research that they consent to participation in a given study. Consent cannot be just assumed, research subjects must be informed of the study, how it will work, and 
+
+* Anonyity
+* Confidentiality
+
+One of the fundamental ways that researchers approach data ethics is to remove personally identifiable data
+
+In 2013 a team of scientists from MIT released a study with shocking results. Through some clever data analysis techniques, they had found a way to de-anonmise 
+
+It can be easy to ignore the risks associated with data generation and use in our excitement for new research and horizons to be explored.
+
+
+# Resources:
+
+- "Genealogy Databases Enable Naming of Anonymous DNA Donors" http://science.sciencemag.org/content/339/6117/262
+- The full technical report, "[Identifying Personal Genomes by Surname Inference](http://science.sciencemag.org/content/339/6117/321)" 
