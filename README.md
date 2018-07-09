@@ -1,6 +1,6 @@
 This repository contains the contents of a short open course designed by Jeremy H. Kidwell and Alex Fenlon at the University of Birmingham. The module explores ethical and legal issues surrounding contemporary academic research and engagement with (especially digital) data. 
 
-The course here has been compiled with [bookdown](https://github.com/rstudio/bookdown), and so the live instance of the course is compiled from openly accessible resources located in this repository.
+The course here has been compiled with [bookdown](https://github.com/rstudio/bookdown), and so the live instance of the course is compiled from openly accessible resources located in this repository. If you're interested in doing something similar, there are a number of good options, including: [gitbook](https://docs.gitbook.com/), [mkdocs](https://www.mkdocs.org/), [readthedocs](https://readthedocs.org) which technically uses [Sphinx](http://www.sphinx-doc.org/en/master/) or [daux](https://daux.io/).
 
 Directory structure includes:
 * `README.md` this README file displayed on Github
