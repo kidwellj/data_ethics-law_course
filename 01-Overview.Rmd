@@ -1,8 +1,10 @@
 # Can you use stuff online for research?
 
-iframe / video here
+In this video, we discuss the overarching question that occupies this module. You can watch the video, and read the transcript below.
 
-transcript below:
+## iframe / video here
+
+## Video Transcript:
 
 JK: In this module, we'd like to focus on a particular question:
 
@@ -21,5 +23,3 @@ JK: Of course, legal concerns overlap with ethical ones - the original lawyers (
 AF: For each of our sessions, we'll be looking at examples and case studies from recent events to explore how legal and ethical aspects intersect to influence research using digital content. We will talk about a ‘selfie monkey’ who raised some fundamental questions about the nature of copyright and ownership.  We’ll explore the recent ‘Cambridge Analytica’ case and the sometimes unexpected (or unauthorised) uses social media data might get exposed to. We'll also talk about the rise of "big data" and the problems surrounding "anonymous" data in this era of cloud computing. 
 
 JK: We hope you'll stick around for the whole module and work your way through the materials we've provided here. You'll find that there is a bit of something for everyone, whether you're completely new to the idea of research ethics, or if you're an old hand and want to dig deeper into some of the complexities of the issues.
-
-AF: That enough to get us started. Now, let's turn to that 'selfie monkey' and see what kind of trouble he caused...
