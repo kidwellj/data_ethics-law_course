@@ -1,0 +1,7 @@
+book_filename: "data_ethics-law_course"
+chapter_name: "Chapter "
+repo: https://github.com/kidwellj/data_ethics-law_course
+output_dir: docs
+rmd_files: ["index.Rmd", "01-Overview.Rmd", "02-Session1.Rmd", "03-Session2.Rmd", "04-Session3.Rmd", "05-Session4.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
