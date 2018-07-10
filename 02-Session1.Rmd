@@ -50,6 +50,7 @@ Now, click on "discussion" on the bar to the left to filter just discussion post
 
 Write up a brief (but at least two paragraphs - 8-10 sentences) report. This should be  strictly anonymised, i.e. don't mention any specific users in your report. Imagine that you are a consultant who has been hired to detect user literacy about platform T&Cs. Summarise what you've found and your appraisal of the nature of this online chat.
 
+Note: if you'd prefer to avoid using facebook. Here's an alternative approach: check out one of the major alternative chat platforms. We'd recommend you start with something like StackExchange and browse to their [directory of sites](https://stackexchange.com/sites#lifearts). Scroll through the Q&A and see if you can answer the questions as above.
 
 
 # Exercise 3 - reading!
