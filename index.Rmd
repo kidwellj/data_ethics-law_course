@@ -1,3 +1,18 @@
+---
+title: "what can I do with stuff I find online?"
+author: "Alex Fenlon and Jeremy H. Kidwell"
+date: "2016-12-02"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: kidwellj/data_ethics-law_course
+url: 'http\://jeremykidwell.info/files/bookdown/data_ethics-law_course/'
+# cover-image: 
+description: "A short course on the ethics and legality of working with data"
+---
+
 # Introduction to the module
 
 This module has been designed to enable independent learners to aquire knowledge about  contemporary legal and methodological issues surrounding digital data and research, and to provoke some thinking on the big questions that underpin some of the more practical issues we discuss here.

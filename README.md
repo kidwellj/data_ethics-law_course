@@ -14,3 +14,9 @@ Directory structure includes:
 * `05-Session4.Rmd` Fourth and closing chapter: "how do we decide what to do?"
 
 Content here, unless otherwise indicated are copyright by Jeremy H. Kidwell and Alex Fenlon. But please re-use them as they are covered by [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0).
+
+# How to produce 'books' from this repository using bookdown
+
+1. Clone this repository so you have a local directory to work with
+2. You can use `make` from the command line, which calls the `Makefile` provided here OR
+3. Working in R Studio, load the `bookdown` library, and then from within the root directory of this repo, invoke the command `bookdown::render_book("index.Rmd", "bookdown::gitbook")`
