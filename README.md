@@ -13,6 +13,8 @@ Directory structure includes:
 * `04-Session3.Rmd` Third chapter "exploring confidentiality and privacy"
 * `05-Session4.Rmd` Fourth and closing chapter: "how do we decide what to do?"
 
+There are videos which accompany the curriculum, which can be [found on PeerTube](https://peertube.co.uk/my-library/video-playlists/35b0f942-b944-42aa-aa7b-6e129b403271). 
+
 Content here, unless otherwise indicated are copyright by Jeremy H. Kidwell and Alex Fenlon. But please re-use them as they are covered by [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0).
 
 # How to produce 'books' from this repository using bookdown
